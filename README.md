@@ -19,3 +19,5 @@ Optional:
 ####
 The idea about this project is to have a understanding of why OOP is important. 
 This is not about complexity- its about clarity. 
+
+If this goes well then I may add more ideas which can be contributed towards in the future. 
